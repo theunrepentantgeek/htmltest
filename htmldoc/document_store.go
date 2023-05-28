@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/wjdp/htmltest/output"
+	"github.com/theunrepentantgeek/htmltest/output"
 )
 
 // DocumentStore struct, store of Documents including Document discovery
